@@ -1,2 +1,2 @@
-# Aula-Bootstrap
-site feito utilizando o bootstrap
+# Bootstrap
+Pagína feita utilizando Bootstrap e html.
